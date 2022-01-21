@@ -1,3 +1,6 @@
+.fundo{
+  background-color: rgb(12, 12, 34);
+}
 .container {
   max-width: 400px;
 }
@@ -6,12 +9,12 @@ input[type=text],
 input[type=text]:focus {
   color: #fff;
   border: none;
-  background: rgba(0,0,0,0.2);
+  background: rgba(238, 218, 218, 0.2);
   max-width: 400px;
 }
 
 .todos-container li {
-  background: #484E53;
+  background: #40075a;
 }
 
 .delete {
@@ -20,4 +23,18 @@ input[type=text]:focus {
 
 .hidden{
   display: none;
+}
+
+footer{
+  text-align: center;
+  background-color: rgb(146, 22, 22);
+  height: 27px;
+  color: #ffff;
+  margin-top: 375px;
+}
+
+footer > p > a {
+ color: #ffff;
+ font-weight: bolder;
+  
 }
