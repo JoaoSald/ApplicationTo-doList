@@ -30,7 +30,9 @@ footer{
   background-color: rgb(146, 22, 22);
   height: 27px;
   color: #ffff;
-  margin-top: 375px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 footer > p > a {
