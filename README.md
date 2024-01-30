@@ -10,5 +10,5 @@ Este repositório contém uma aplicação de Lista de Tarefas (To-Do List) desen
 - **JavaScript:** Lógica de programação para interatividade e manipulação do DOM.
 - **HTML:** Estruturação da interface do usuário.
 - **CSS:** Estilização para proporcionar uma experiência visual agradável.
-- 
+  
 Divirta-se organizando suas tarefas! 📝✨
